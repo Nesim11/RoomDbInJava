@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/nesim/.gradle/caches/transforms-3/124804aa04804ebe21a194802852c52a/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/nesim/.gradle/caches/transforms-3/2a529399db8be369a6e73d337d3ed7d8/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.4.0-alpha03] /Users/nesim/.gradle/caches/transforms-3/4128fc47d0aca81535d6687353dc2b2f/transformed/room-runtime-2.4.0-alpha03/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/nesim/.gradle/caches/transforms-3/75f1b0da15dcd8b8989a836b630afd3e/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/nesim/.gradle/caches/transforms-3/9ed8d6b85871c9a9c4cee51a8c2ffd68/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/nesim/.gradle/caches/transforms-3/d17d26e0454dd5bf0f7717ef34906f44/transformed/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/nesim/.gradle/caches/transforms-3/162373c930738ba9e63c8d3b0da937bf/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nesim/.gradle/caches/transforms-3/9c910badf42501c71612626af3c59664/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nesim/.gradle/caches/transforms-3/cea2e8992010c45675f874527c29f06e/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/nesim/.gradle/caches/transforms-3/9c47a4446fe59ac58cd39fbea1c05a4d/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nesim/.gradle/caches/transforms-3/fdfb131eb0b14342c5bcb5e60255ee73/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nesim/.gradle/caches/transforms-3/635679a71e243028d84b0ab338bde78e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nesim/.gradle/caches/transforms-3/843d735930bcfba39825c2f563215966/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.5.0] /Users/nesim/.gradle/caches/transforms-3/2e0efc2e45609af7c14a30619c1ce818/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nesim/.gradle/caches/transforms-3/dce2ecdba8d2c481f83c4882aa640e81/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nesim/.gradle/caches/transforms-3/abbd079b5928d7594c01b97c7fd83a8a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nesim/.gradle/caches/transforms-3/9ad539c2ff9e76a7ffe7dadedc0f4d05/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/nesim/.gradle/caches/transforms-3/119911237734409a8c66e7fc77d6db69/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/nesim/.gradle/caches/transforms-3/467b0ae182809a2003a48b8b11863f62/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha01] /Users/nesim/.gradle/caches/transforms-3/6486021366803c609317049359d97213/transformed/sqlite-framework-2.2.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0-alpha01] /Users/nesim/.gradle/caches/transforms-3/a6478296212cff634396d7586cd8e8ef/transformed/sqlite-2.2.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nesim/.gradle/caches/transforms-3/def26ab9d4000b2c707ef1ba06ca2084/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nesim/.gradle/caches/transforms-3/2c851e2ab390852521240c47e060a5f7/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nesim/.gradle/caches/transforms-3/a88e11df5ea9cb207b5db9129101c2ba/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nesim/.gradle/caches/transforms-3/c1148dfe2626b9cd3b622d7947d5d2e1/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nesim/.gradle/caches/transforms-3/b91657716530f73bac2dbf8affa4611a/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nesim/.gradle/caches/transforms-3/c686bcda851abcec1968c6dd4865b04c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] /Users/nesim/.gradle/caches/transforms-3/de4078714627f84ed1bff6da636a381f/transformed/jetified-annotation-experimental-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/nesim/.gradle/caches/transforms-3/124804aa04804ebe21a194802852c52a/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/nesim/.gradle/caches/transforms-3/124804aa04804ebe21a194802852c52a/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.4.0-alpha03] /Users/nesim/.gradle/caches/transforms-3/4128fc47d0aca81535d6687353dc2b2f/transformed/room-runtime-2.4.0-alpha03/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.0-alpha03] /Users/nesim/.gradle/caches/transforms-3/4128fc47d0aca81535d6687353dc2b2f/transformed/room-runtime-2.4.0-alpha03/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.5.0] /Users/nesim/.gradle/caches/transforms-3/2e0efc2e45609af7c14a30619c1ce818/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/nesim/.gradle/caches/transforms-3/2e0efc2e45609af7c14a30619c1ce818/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nesim/.gradle/caches/transforms-3/def26ab9d4000b2c707ef1ba06ca2084/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nesim/.gradle/caches/transforms-3/def26ab9d4000b2c707ef1ba06ca2084/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/nesim/.gradle/caches/transforms-3/2e0efc2e45609af7c14a30619c1ce818/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.android.roomdbinjava.AddNewUserActivity
+ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:12:9-65
+	android:name
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:12:19-53
+activity#com.android.roomdbinjava.MainActivity
+ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/nesim/.gradle/caches/transforms-3/124804aa04804ebe21a194802852c52a/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/nesim/.gradle/caches/transforms-3/124804aa04804ebe21a194802852c52a/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/nesim/.gradle/caches/transforms-3/2a529399db8be369a6e73d337d3ed7d8/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/nesim/.gradle/caches/transforms-3/2a529399db8be369a6e73d337d3ed7d8/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0-alpha03] /Users/nesim/.gradle/caches/transforms-3/4128fc47d0aca81535d6687353dc2b2f/transformed/room-runtime-2.4.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0-alpha03] /Users/nesim/.gradle/caches/transforms-3/4128fc47d0aca81535d6687353dc2b2f/transformed/room-runtime-2.4.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/nesim/.gradle/caches/transforms-3/75f1b0da15dcd8b8989a836b630afd3e/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/nesim/.gradle/caches/transforms-3/75f1b0da15dcd8b8989a836b630afd3e/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/nesim/.gradle/caches/transforms-3/9ed8d6b85871c9a9c4cee51a8c2ffd68/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/nesim/.gradle/caches/transforms-3/9ed8d6b85871c9a9c4cee51a8c2ffd68/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/nesim/.gradle/caches/transforms-3/d17d26e0454dd5bf0f7717ef34906f44/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/nesim/.gradle/caches/transforms-3/d17d26e0454dd5bf0f7717ef34906f44/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/nesim/.gradle/caches/transforms-3/162373c930738ba9e63c8d3b0da937bf/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/nesim/.gradle/caches/transforms-3/162373c930738ba9e63c8d3b0da937bf/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nesim/.gradle/caches/transforms-3/9c910badf42501c71612626af3c59664/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nesim/.gradle/caches/transforms-3/9c910badf42501c71612626af3c59664/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nesim/.gradle/caches/transforms-3/cea2e8992010c45675f874527c29f06e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nesim/.gradle/caches/transforms-3/cea2e8992010c45675f874527c29f06e/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nesim/.gradle/caches/transforms-3/9c47a4446fe59ac58cd39fbea1c05a4d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nesim/.gradle/caches/transforms-3/9c47a4446fe59ac58cd39fbea1c05a4d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nesim/.gradle/caches/transforms-3/fdfb131eb0b14342c5bcb5e60255ee73/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nesim/.gradle/caches/transforms-3/fdfb131eb0b14342c5bcb5e60255ee73/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nesim/.gradle/caches/transforms-3/635679a71e243028d84b0ab338bde78e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nesim/.gradle/caches/transforms-3/635679a71e243028d84b0ab338bde78e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nesim/.gradle/caches/transforms-3/843d735930bcfba39825c2f563215966/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nesim/.gradle/caches/transforms-3/843d735930bcfba39825c2f563215966/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/nesim/.gradle/caches/transforms-3/2e0efc2e45609af7c14a30619c1ce818/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/nesim/.gradle/caches/transforms-3/2e0efc2e45609af7c14a30619c1ce818/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nesim/.gradle/caches/transforms-3/dce2ecdba8d2c481f83c4882aa640e81/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nesim/.gradle/caches/transforms-3/dce2ecdba8d2c481f83c4882aa640e81/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nesim/.gradle/caches/transforms-3/abbd079b5928d7594c01b97c7fd83a8a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nesim/.gradle/caches/transforms-3/abbd079b5928d7594c01b97c7fd83a8a/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nesim/.gradle/caches/transforms-3/9ad539c2ff9e76a7ffe7dadedc0f4d05/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nesim/.gradle/caches/transforms-3/9ad539c2ff9e76a7ffe7dadedc0f4d05/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/nesim/.gradle/caches/transforms-3/119911237734409a8c66e7fc77d6db69/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/nesim/.gradle/caches/transforms-3/119911237734409a8c66e7fc77d6db69/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/nesim/.gradle/caches/transforms-3/467b0ae182809a2003a48b8b11863f62/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/nesim/.gradle/caches/transforms-3/467b0ae182809a2003a48b8b11863f62/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha01] /Users/nesim/.gradle/caches/transforms-3/6486021366803c609317049359d97213/transformed/sqlite-framework-2.2.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0-alpha01] /Users/nesim/.gradle/caches/transforms-3/6486021366803c609317049359d97213/transformed/sqlite-framework-2.2.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0-alpha01] /Users/nesim/.gradle/caches/transforms-3/a6478296212cff634396d7586cd8e8ef/transformed/sqlite-2.2.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0-alpha01] /Users/nesim/.gradle/caches/transforms-3/a6478296212cff634396d7586cd8e8ef/transformed/sqlite-2.2.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nesim/.gradle/caches/transforms-3/def26ab9d4000b2c707ef1ba06ca2084/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nesim/.gradle/caches/transforms-3/def26ab9d4000b2c707ef1ba06ca2084/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nesim/.gradle/caches/transforms-3/2c851e2ab390852521240c47e060a5f7/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nesim/.gradle/caches/transforms-3/2c851e2ab390852521240c47e060a5f7/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nesim/.gradle/caches/transforms-3/a88e11df5ea9cb207b5db9129101c2ba/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nesim/.gradle/caches/transforms-3/a88e11df5ea9cb207b5db9129101c2ba/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nesim/.gradle/caches/transforms-3/c1148dfe2626b9cd3b622d7947d5d2e1/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nesim/.gradle/caches/transforms-3/c1148dfe2626b9cd3b622d7947d5d2e1/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nesim/.gradle/caches/transforms-3/b91657716530f73bac2dbf8affa4611a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nesim/.gradle/caches/transforms-3/b91657716530f73bac2dbf8affa4611a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nesim/.gradle/caches/transforms-3/c686bcda851abcec1968c6dd4865b04c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nesim/.gradle/caches/transforms-3/c686bcda851abcec1968c6dd4865b04c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] /Users/nesim/.gradle/caches/transforms-3/de4078714627f84ed1bff6da636a381f/transformed/jetified-annotation-experimental-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0-rc01] /Users/nesim/.gradle/caches/transforms-3/de4078714627f84ed1bff6da636a381f/transformed/jetified-annotation-experimental-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nesim/Desktop/RoomDbInJava/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.0-alpha03] /Users/nesim/.gradle/caches/transforms-3/4128fc47d0aca81535d6687353dc2b2f/transformed/room-runtime-2.4.0-alpha03/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.0-alpha03] /Users/nesim/.gradle/caches/transforms-3/4128fc47d0aca81535d6687353dc2b2f/transformed/room-runtime-2.4.0-alpha03/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.0-alpha03] /Users/nesim/.gradle/caches/transforms-3/4128fc47d0aca81535d6687353dc2b2f/transformed/room-runtime-2.4.0-alpha03/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.0-alpha03] /Users/nesim/.gradle/caches/transforms-3/4128fc47d0aca81535d6687353dc2b2f/transformed/room-runtime-2.4.0-alpha03/AndroidManifest.xml:26:13-74
